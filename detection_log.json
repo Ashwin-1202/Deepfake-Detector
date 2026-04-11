@@ -1,0 +1,1829 @@
+[
+  {
+    "timestamp": "2026-04-11T11:39:54.581558",
+    "video_path": "webcam",
+    "rppg_score": 0.0,
+    "illumination_score": 0.960866732369889,
+    "fft_score": 0.15090107917785645,
+    "final_score": 0.3335303434643236,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:39:55.582048",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9403475065056686,
+    "fft_score": 0.12902693450450897,
+    "final_score": 0.4008123323030533,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:39:56.604190",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9614417857356006,
+    "fft_score": 0.1289033442735672,
+    "final_score": 0.40710353900275037,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:39:57.609948",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9414739929528417,
+    "fft_score": 0.13321137428283691,
+    "final_score": 0.4024056101707036,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:39:58.632570",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9598838019946542,
+    "fft_score": 0.12709924578666687,
+    "final_score": 0.4060949143343963,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:39:59.644433",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9220837045517922,
+    "fft_score": 0.12353936582803726,
+    "final_score": 0.3936869211139488,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:00.639153",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9087918043494169,
+    "fft_score": 0.12107571214437485,
+    "final_score": 0.3889602549481375,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:00.674173",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9103640215537023,
+    "fft_score": 0.12091956287622452,
+    "final_score": 0.3893850753289781,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:01.694722",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8666512928422898,
+    "fft_score": 0.1230604350566864,
+    "final_score": 0.3769135183696929,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:02.722011",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8971982685294222,
+    "fft_score": 0.12132810801267624,
+    "final_score": 0.38555791296262953,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:04.747109",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9049207945768045,
+    "fft_score": 0.13591139018535614,
+    "final_score": 0.3922496554286482,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:05.757897",
+    "video_path": "webcam",
+    "rppg_score": 0.9663570649124258,
+    "illumination_score": 0.9133732278150578,
+    "fft_score": 0.14299264550209045,
+    "final_score": 0.7034525879601149,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:06.784434",
+    "video_path": "webcam",
+    "rppg_score": 0.7751372814737114,
+    "illumination_score": 0.9573005861805604,
+    "fft_score": 0.15708595514297485,
+    "final_score": 0.6443708749865451,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:07.819927",
+    "video_path": "webcam",
+    "rppg_score": 0.7636974194384241,
+    "illumination_score": 0.9770503861314537,
+    "fft_score": 0.16379864513874054,
+    "final_score": 0.6477336771564279,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:08.828465",
+    "video_path": "webcam",
+    "rppg_score": 0.8753869223292036,
+    "illumination_score": 0.9697773100727798,
+    "fft_score": 0.15272526443004608,
+    "final_score": 0.6869055412825292,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:09.860509",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9435651238391043,
+    "fft_score": 0.12928397953510284,
+    "final_score": 0.40185473101226216,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:10.878453",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9822101329776324,
+    "fft_score": 0.1298254281282425,
+    "final_score": 0.41361066833176247,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:11.910742",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9214347415874049,
+    "fft_score": 0.12876710295677185,
+    "final_score": 0.395060553363253,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:12.921354",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9650168716605445,
+    "fft_score": 0.12468426674604416,
+    "final_score": 0.40691034152197664,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:14.955409",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9737083987691153,
+    "fft_score": 0.136613130569458,
+    "final_score": 0.41309645880157203,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:15.961030",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9070263706979991,
+    "fft_score": 0.11413135379552841,
+    "final_score": 0.3863473173480582,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:16.986450",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9461591524423032,
+    "fft_score": 0.1128692477941513,
+    "final_score": 0.3977085200709364,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:17.990584",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9031551764360707,
+    "fft_score": 0.12277781218290329,
+    "final_score": 0.38777989658569223,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:19.026756",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.94721408048051,
+    "fft_score": 0.11689382046461105,
+    "final_score": 0.3992323702835363,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:20.058248",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8798862010088795,
+    "fft_score": 0.11798953264951706,
+    "final_score": 0.379362720097519,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:21.080859",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.910820634846757,
+    "fft_score": 0.12060649693012238,
+    "final_score": 0.3894281395330638,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:22.054362",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8842354239570553,
+    "fft_score": 0.1454547941684723,
+    "final_score": 0.3889070654376583,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:22.090874",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8864479452665297,
+    "fft_score": 0.14630870521068573,
+    "final_score": 0.38982699514316466,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:23.099948",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9413380118573368,
+    "fft_score": 0.15123406052589417,
+    "final_score": 0.4077716217149693,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:24.106796",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8894634555944556,
+    "fft_score": 0.15380790829658508,
+    "final_score": 0.3929814091673122,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:25.120764",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.946241912184176,
+    "fft_score": 0.15264470875263214,
+    "final_score": 0.4096659862810424,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:26.172991",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8984243860200315,
+    "fft_score": 0.15307201445102692,
+    "final_score": 0.3954489201413175,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:27.238089",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9184732658213998,
+    "fft_score": 0.15226097404956818,
+    "final_score": 0.4012202719612904,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:28.248084",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9115308058577625,
+    "fft_score": 0.1504994034767151,
+    "final_score": 0.39860906280034325,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:29.266617",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9235458546873258,
+    "fft_score": 0.13960282504558563,
+    "final_score": 0.39894460391987346,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:30.290135",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9148810960898345,
+    "fft_score": 0.13113152980804443,
+    "final_score": 0.39380378776936364,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:31.335590",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9133007510527548,
+    "fft_score": 0.13040442764759064,
+    "final_score": 0.3931115536101036,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:32.352185",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9106908734335718,
+    "fft_score": 0.12919504940509796,
+    "final_score": 0.3919657768516009,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:33.356308",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9114701237187283,
+    "fft_score": 0.1290491670370102,
+    "final_score": 0.3921557872267215,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:34.415402",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9121448458930047,
+    "fft_score": 0.13261672854423523,
+    "final_score": 0.39342847233117195,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:35.421962",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.920576506528275,
+    "fft_score": 0.13166819512844086,
+    "final_score": 0.39567341049701477,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:36.458385",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.908382305571085,
+    "fft_score": 0.12792249023914337,
+    "final_score": 0.3908914387430685,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:37.470584",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9150774220407157,
+    "fft_score": 0.12929901480674744,
+    "final_score": 0.393312931054239,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:38.523648",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.908840647737982,
+    "fft_score": 0.13094289600849152,
+    "final_score": 0.39193506312394205,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:39.566708",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9114642101765632,
+    "fft_score": 0.1290426254272461,
+    "final_score": 0.3921520506811428,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:41.632022",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.907699330152296,
+    "fft_score": 0.133089080452919,
+    "final_score": 0.39223652318156454,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:42.716670",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9141847507702,
+    "fft_score": 0.13853219151496887,
+    "final_score": 0.39581508268555066,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:44.812596",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9027197451944834,
+    "fft_score": 0.15225933492183685,
+    "final_score": 0.3964937240348961,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:45.864877",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8985982775613013,
+    "fft_score": 0.14640137553215027,
+    "final_score": 0.39349989592803547,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:46.910155",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9116239276876694,
+    "fft_score": 0.1460370421409607,
+    "final_score": 0.39729829094858904,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:47.917240",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9167546565782632,
+    "fft_score": 0.1478920578956604,
+    "final_score": 0.39939401434217703,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:48.962332",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9229046088828304,
+    "fft_score": 0.1478717029094696,
+    "final_score": 0.40123289353769004,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:50.036620",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9193324145470919,
+    "fft_score": 0.14753557741641998,
+    "final_score": 0.4000603975890536,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:51.046299",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9189832963340294,
+    "fft_score": 0.1481488198041916,
+    "final_score": 0.4001396348414663,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:52.050694",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9228418587099421,
+    "fft_score": 0.14869004487991333,
+    "final_score": 0.4014595710769566,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:53.113431",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9244429701205762,
+    "fft_score": 0.14770835638046265,
+    "final_score": 0.4016453979503117,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:54.119320",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9170898256886981,
+    "fft_score": 0.1468406468629837,
+    "final_score": 0.39917914176550456,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:55.158645",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9219672260203199,
+    "fft_score": 0.14795668423175812,
+    "final_score": 0.4009771730756234,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:56.190751",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.917890957519457,
+    "fft_score": 0.15103526413440704,
+    "final_score": 0.4006778664961592,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:57.212193",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9265577443726246,
+    "fft_score": 0.1524467170238495,
+    "final_score": 0.40370133841894223,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:58.214732",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8922992216369491,
+    "fft_score": 0.14880138635635376,
+    "final_score": 0.3923301823979909,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:40:59.222998",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9095160388091666,
+    "fft_score": 0.15381751954555511,
+    "final_score": 0.39900006750641653,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:00.263758",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9008928184291546,
+    "fft_score": 0.15386448800563812,
+    "final_score": 0.39642719193043785,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:01.294126",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9122012219094336,
+    "fft_score": 0.14986403286457062,
+    "final_score": 0.3986195764322013,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:02.310873",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9088446543382165,
+    "fft_score": 0.1481890082359314,
+    "final_score": 0.3971100987722444,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:03.347239",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9222819333539547,
+    "fft_score": 0.14626295864582062,
+    "final_score": 0.4005634675999326,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:04.383209",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9212861368842232,
+    "fft_score": 0.15075159072875977,
+    "final_score": 0.4016113182838949,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:05.385718",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9220887244953102,
+    "fft_score": 0.1528567373752594,
+    "final_score": 0.4024836385611709,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:06.412657",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9225135074235982,
+    "fft_score": 0.14751070737838745,
+    "final_score": 0.4010072644405957,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:07.408824",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9231117394678059,
+    "fft_score": 0.15003414452075958,
+    "final_score": 0.40194376519656966,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:08.421311",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9147451616078379,
+    "fft_score": 0.1492827981710434,
+    "final_score": 0.39920838793366437,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:09.442640",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9248058890340513,
+    "fft_score": 0.15220072865486145,
+    "final_score": 0.4031019853066738,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:10.495677",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9071004746228707,
+    "fft_score": 0.15444792807102203,
+    "final_score": 0.3984645208081678,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:11.512098",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9178704583157153,
+    "fft_score": 0.15306255221366882,
+    "final_score": 0.40127990315881523,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:12.552912",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9183180577639546,
+    "fft_score": 0.154005765914917,
+    "final_score": 0.4016971471036615,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:13.567945",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9262471027272813,
+    "fft_score": 0.15062464773654938,
+    "final_score": 0.40306152513914917,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:14.585220",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9246903477738917,
+    "fft_score": 0.15298748016357422,
+    "final_score": 0.40330334838123977,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:15.590520",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9523267977951376,
+    "fft_score": 0.15488705039024353,
+    "final_score": 0.41216415445561433,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:16.627477",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9474305749978543,
+    "fft_score": 0.15652674436569214,
+    "final_score": 0.411187195809064,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:17.647594",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9330328014467744,
+    "fft_score": 0.14888279139995575,
+    "final_score": 0.404574677854019,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:18.649415",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.92323945983559,
+    "fft_score": 0.14518651366233826,
+    "final_score": 0.4005277920493785,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:19.737517",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9335621498725196,
+    "fft_score": 0.14689189195632935,
+    "final_score": 0.40413621254865467,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:20.776011",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9272633936150732,
+    "fft_score": 0.14689677953720093,
+    "final_score": 0.40224805194568225,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:21.835231",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9211398932702383,
+    "fft_score": 0.14790135622024536,
+    "final_score": 0.4007123748471451,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:22.878109",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9237516391797885,
+    "fft_score": 0.1489747315645218,
+    "final_score": 0.4018179112232931,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:23.906736",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9254669325163142,
+    "fft_score": 0.14826937019824982,
+    "final_score": 0.4021208908143692,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:24.935273",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9242001767243024,
+    "fft_score": 0.1487436443567276,
+    "final_score": 0.40188314632430905,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:25.964720",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9174249955260395,
+    "fft_score": 0.14788275957107544,
+    "final_score": 0.39959232652913446,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:26.997484",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9282707910268121,
+    "fft_score": 0.1528085321187973,
+    "final_score": 0.40432379694368287,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:28.003637",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9349521208400199,
+    "fft_score": 0.15389114618301392,
+    "final_score": 0.40665298010691014,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:29.045051",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9443229924947214,
+    "fft_score": 0.15191040933132172,
+    "final_score": 0.40887002054781296,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:30.058575",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9418316683894296,
+    "fft_score": 0.15329833328723907,
+    "final_score": 0.4085390005030006,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:31.112595",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9438510461139746,
+    "fft_score": 0.15429522097110748,
+    "final_score": 0.4094438801255247,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:32.132179",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9454965155261726,
+    "fft_score": 0.15378673374652863,
+    "final_score": 0.40978497478181036,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:33.187834",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9412551337482685,
+    "fft_score": 0.16096308827400208,
+    "final_score": 0.4106654666066812,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:34.235202",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9488972709898291,
+    "fft_score": 0.16934677958488464,
+    "final_score": 0.41547321517241415,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:35.299151",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9478353076372255,
+    "fft_score": 0.16769880056381226,
+    "final_score": 0.4146602324603113,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:36.392249",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.910481314307207,
+    "fft_score": 0.15810368955135345,
+    "final_score": 0.4005755011575681,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:37.440135",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8838772051961709,
+    "fft_score": 0.15177178382873535,
+    "final_score": 0.39069469670747187,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:38.455541",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8880209387506367,
+    "fft_score": 0.14695973694324493,
+    "final_score": 0.3904942027081645,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:39.458205",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9155249073623122,
+    "fft_score": 0.13912610709667206,
+    "final_score": 0.39639530433769526,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:40.459791",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9214528594652744,
+    "fft_score": 0.13029004633426666,
+    "final_score": 0.39552287173986234,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:41.468395",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9358143320160308,
+    "fft_score": 0.12989099323749542,
+    "final_score": 0.3997115975760579,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:42.511045",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9327416375342161,
+    "fft_score": 0.12849606573581696,
+    "final_score": 0.3983713109810099,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:43.541678",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9308404618208156,
+    "fft_score": 0.12594756484031677,
+    "final_score": 0.39703640799833967,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:44.543870",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9198964152453567,
+    "fft_score": 0.12989871203899384,
+    "final_score": 0.39493853818530517,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:45.578108",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.920700091387063,
+    "fft_score": 0.12807117402553558,
+    "final_score": 0.3946313796237796,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:46.643900",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9201944666460129,
+    "fft_score": 0.130351722240448,
+    "final_score": 0.3951638566659383,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:47.683945",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.927627215611144,
+    "fft_score": 0.13879670202732086,
+    "final_score": 0.3999271752915395,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:48.710799",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9213994628278217,
+    "fft_score": 0.14165912568569183,
+    "final_score": 0.398917576554054,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:54.903454",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.932529629175682,
+    "fft_score": 0.14776739478111267,
+    "final_score": 0.40408910718703844,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:56.951989",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9196269525974254,
+    "fft_score": 0.152558833360672,
+    "final_score": 0.40165573578742925,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:58.032946",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9213187848933994,
+    "fft_score": 0.14974452555179596,
+    "final_score": 0.4013189931335586,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:41:59.041170",
+    "video_path": "webcam",
+    "rppg_score": 0.8146397455226441,
+    "illumination_score": 0.9430439818890886,
+    "fft_score": 0.14518119394779205,
+    "final_score": 0.6523234509601218,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:00.049019",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9594801869018179,
+    "fft_score": 0.15233869850635529,
+    "final_score": 0.413545665622452,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:01.068009",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9534416308918211,
+    "fft_score": 0.1487521380186081,
+    "final_score": 0.4106581306731288,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:02.116711",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9611761174924899,
+    "fft_score": 0.14482994377613068,
+    "final_score": 0.41180181838058616,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:03.123819",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9706574175037537,
+    "fft_score": 0.14438769221305847,
+    "final_score": 0.4145135329150436,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:04.156756",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9473475951857124,
+    "fft_score": 0.14152482151985168,
+    "final_score": 0.40666172501166925,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:05.189889",
+    "video_path": "webcam",
+    "rppg_score": 0.8424663710631035,
+    "illumination_score": 0.9438231187784614,
+    "fft_score": 0.14020176231861115,
+    "final_score": 0.6621940127543631,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:06.258577",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9384520124109024,
+    "fft_score": 0.14477823674678802,
+    "final_score": 0.4049690747473071,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:07.303407",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9412368390660225,
+    "fft_score": 0.14779309928417206,
+    "final_score": 0.4067089815050584,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:08.346542",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.939594027270671,
+    "fft_score": 0.14999844133853912,
+    "final_score": 0.40687774058276305,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:09.418333",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9444744113957334,
+    "fft_score": 0.15124265849590302,
+    "final_score": 0.4087151209674909,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:10.470176",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9292415191766861,
+    "fft_score": 0.1494884043931961,
+    "final_score": 0.40361897707096467,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:11.524968",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9358103655857541,
+    "fft_score": 0.14744170010089874,
+    "final_score": 0.4049756197059959,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:12.566476",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9351455220122743,
+    "fft_score": 0.14394702017307281,
+    "final_score": 0.40372776265560417,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:13.605141",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9363643408243111,
+    "fft_score": 0.14359670877456665,
+    "final_score": 0.40398831487966336,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:14.619129",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9223063424565677,
+    "fft_score": 0.15446685254573822,
+    "final_score": 0.4030319585006918,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:15.675411",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9293593931206311,
+    "fft_score": 0.1563558131456375,
+    "final_score": 0.4057145618798806,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:16.689493",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9323929367628597,
+    "fft_score": 0.14449837803840637,
+    "final_score": 0.40306739444037987,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:17.735881",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.935650419562798,
+    "fft_score": 0.1441599577665329,
+    "final_score": 0.4039431131987993,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:18.748726",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9347766936256071,
+    "fft_score": 0.14533446729183197,
+    "final_score": 0.40403334827523174,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:19.763004",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9335741480300873,
+    "fft_score": 0.14252398908138275,
+    "final_score": 0.402829441133441,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:20.775579",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9331039785784596,
+    "fft_score": 0.14173239469528198,
+    "final_score": 0.40245091198212246,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:21.825833",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9367808855053591,
+    "fft_score": 0.14293847978115082,
+    "final_score": 0.40391580958595297,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:22.850767",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9447557944776346,
+    "fft_score": 0.14440438151359558,
+    "final_score": 0.40674805279736903,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:23.871467",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9452194427046643,
+    "fft_score": 0.1488659828901291,
+    "final_score": 0.40822562767843806,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:24.875736",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9531625847230049,
+    "fft_score": 0.15397508442401886,
+    "final_score": 0.4121413007441071,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:25.899938",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9468761442778072,
+    "fft_score": 0.15787175297737122,
+    "final_score": 0.4114243691765535,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:26.931502",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.951844590069699,
+    "fft_score": 0.15911875665187836,
+    "final_score": 0.4132890040164732,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:27.997916",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.957286465115491,
+    "fft_score": 0.1546124666929245,
+    "final_score": 0.41356967954252466,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:29.023164",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9555218381018092,
+    "fft_score": 0.1518850475549698,
+    "final_score": 0.4122220656970337,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:30.045225",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9431106417254368,
+    "fft_score": 0.14734964072704315,
+    "final_score": 0.40713808473574403,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:31.066458",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.941161783798057,
+    "fft_score": 0.14278154075145721,
+    "final_score": 0.4051829973648543,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:32.076080",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9446482463670863,
+    "fft_score": 0.14212721586227417,
+    "final_score": 0.4060326386688082,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:33.128424",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.946954607107383,
+    "fft_score": 0.1424848586320877,
+    "final_score": 0.4068318397218412,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:34.135768",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9468684391300485,
+    "fft_score": 0.14500613510608673,
+    "final_score": 0.4075623722708406,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:35.165312",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.954881806740911,
+    "fft_score": 0.15170390903949738,
+    "final_score": 0.41197571473412253,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:36.215118",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9528499026000602,
+    "fft_score": 0.15573088824748993,
+    "final_score": 0.412574237254265,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:37.252462",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9555703412554012,
+    "fft_score": 0.1567281186580658,
+    "final_score": 0.4136895379740401,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:38.280638",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.952564331780391,
+    "fft_score": 0.15545020997524261,
+    "final_score": 0.4124043625266901,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:39.284205",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9583617067670763,
+    "fft_score": 0.15487462282180786,
+    "final_score": 0.41397089887666527,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:40.318384",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9534652813569344,
+    "fft_score": 0.15370750427246094,
+    "final_score": 0.41215183568881864,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:41.356781",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9492994984429919,
+    "fft_score": 0.15339916944503784,
+    "final_score": 0.4108096003664089,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:42.400668",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9485106955192343,
+    "fft_score": 0.15368150174617767,
+    "final_score": 0.4106576591796236,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:43.427815",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9329228303042373,
+    "fft_score": 0.15066733956336975,
+    "final_score": 0.4050770509602821,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:44.466234",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9178503431938697,
+    "fft_score": 0.15005332231521606,
+    "final_score": 0.4003710996527257,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:45.502017",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9218417653910528,
+    "fft_score": 0.14965783059597015,
+    "final_score": 0.4014498787961069,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:46.566069",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9208699082804048,
+    "fft_score": 0.14978118240833282,
+    "final_score": 0.4011953272066213,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:47.607309",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9359615368017636,
+    "fft_score": 0.15523748099803925,
+    "final_score": 0.40735970533994087,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:48.635939",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9450201783908626,
+    "fft_score": 0.16021429002285004,
+    "final_score": 0.4115703405241138,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:49.661613",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.947469155662905,
+    "fft_score": 0.15828976035118103,
+    "final_score": 0.41172767480422584,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:50.709369",
+    "video_path": "webcam",
+    "rppg_score": 0.9220714959337286,
+    "illumination_score": 0.9535620584214924,
+    "fft_score": 0.15352129936218262,
+    "final_score": 0.700953605708594,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:51.760251",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9497017725521641,
+    "fft_score": 0.1534106582403183,
+    "final_score": 0.41093372923774474,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:52.810310",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9419033642732554,
+    "fft_score": 0.15994557738304138,
+    "final_score": 0.41055468249688903,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:53.820671",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9391169266581583,
+    "fft_score": 0.16174796223640442,
+    "final_score": 0.4102594666683688,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:54.827828",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9394621174475675,
+    "fft_score": 0.1585591733455658,
+    "final_score": 0.40940638723794,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:55.838032",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9337730263485781,
+    "fft_score": 0.14843276143074036,
+    "final_score": 0.40466173633379554,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:56.853367",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9252222980397538,
+    "fft_score": 0.14080001413822174,
+    "final_score": 0.39980669365339266,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:57.887592",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9170195721536574,
+    "fft_score": 0.1398501694202423,
+    "final_score": 0.3970609224721699,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:42:58.916064",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.906754577750979,
+    "fft_score": 0.14121007919311523,
+    "final_score": 0.39438939708322823,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:01.948770",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9395910078243478,
+    "fft_score": 0.1489073634147644,
+    "final_score": 0.4065495113717337,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:02.985503",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9497248578052991,
+    "fft_score": 0.15408942103385925,
+    "final_score": 0.41114428365174754,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:04.028930",
+    "video_path": "webcam",
+    "rppg_score": 0.8755640705280539,
+    "illumination_score": 0.9450049811696457,
+    "fft_score": 0.147824227809906,
+    "final_score": 0.678074390905087,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:05.034425",
+    "video_path": "webcam",
+    "rppg_score": 0.7840723934119431,
+    "illumination_score": 0.9317756926187977,
+    "fft_score": 0.14947158098220825,
+    "final_score": 0.638003139445079,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:06.048846",
+    "video_path": "webcam",
+    "rppg_score": 0.7832260803749787,
+    "illumination_score": 0.9161353437834412,
+    "fft_score": 0.15017054975032806,
+    "final_score": 0.6331822002101222,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:07.078487",
+    "video_path": "webcam",
+    "rppg_score": 0.7831476390152421,
+    "illumination_score": 0.9304071885172835,
+    "fft_score": 0.15726134181022644,
+    "final_score": 0.6395596147043499,
+    "label": "REAL"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:08.094406",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9221817241608767,
+    "fft_score": 0.15942969918251038,
+    "final_score": 0.40448342700301615,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:09.148572",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9301662208979632,
+    "fft_score": 0.15414096415042877,
+    "final_score": 0.4052921555145176,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:10.190191",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9219040716042249,
+    "fft_score": 0.15630149841308594,
+    "final_score": 0.40346167100519326,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:11.222999",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9335581443179899,
+    "fft_score": 0.1566944718360901,
+    "final_score": 0.407075784846224,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:12.267012",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9202612661615602,
+    "fft_score": 0.15364322066307068,
+    "final_score": 0.4021713460473893,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:13.279643",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9372475990545707,
+    "fft_score": 0.15420112013816833,
+    "final_score": 0.40743461575782175,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:14.285119",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9172154492454345,
+    "fft_score": 0.15305621922016144,
+    "final_score": 0.4010815005396788,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:15.321296",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9244927025548025,
+    "fft_score": 0.1480264663696289,
+    "final_score": 0.40175575067732944,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:16.387809",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9057539771273511,
+    "fft_score": 0.14839886128902435,
+    "final_score": 0.3962458515249126,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:17.446248",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.924875737881342,
+    "fft_score": 0.1493457853794098,
+    "final_score": 0.40226645697822555,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:18.479578",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9134549855316428,
+    "fft_score": 0.14991790056228638,
+    "final_score": 0.39901186582817877,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:19.514390",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9178028717514206,
+    "fft_score": 0.14752186834812164,
+    "final_score": 0.3995974220298627,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:20.571764",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9082028533034089,
+    "fft_score": 0.14633801579475403,
+    "final_score": 0.39636226072944886,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:21.580243",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9173146442339358,
+    "fft_score": 0.1511024385690689,
+    "final_score": 0.4005251248409014,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:22.616782",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9137888300880965,
+    "fft_score": 0.15115512907505035,
+    "final_score": 0.39948318774894404,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:23.643187",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9207359285853436,
+    "fft_score": 0.15076538920402527,
+    "final_score": 0.40145039533681065,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:24.661843",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9240092671797142,
+    "fft_score": 0.15316151082515717,
+    "final_score": 0.4031512334014614,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:25.733273",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9196938275856815,
+    "fft_score": 0.15435823798179626,
+    "final_score": 0.40221561967024333,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:26.750524",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9057392053189258,
+    "fft_score": 0.1510768085718155,
+    "final_score": 0.3970448041672224,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:27.775277",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.892721405761921,
+    "fft_score": 0.148260697722435,
+    "final_score": 0.3922946310453068,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:28.792908",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8990910451137376,
+    "fft_score": 0.14728336036205292,
+    "final_score": 0.39391232164273715,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:29.805283",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9021289513443008,
+    "fft_score": 0.14952094852924347,
+    "final_score": 0.3954949699620633,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:30.805599",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.931076927694171,
+    "fft_score": 0.1530562788248062,
+    "final_score": 0.4052399619556932,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:31.820607",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.8868734726719524,
+    "fft_score": 0.14537611603736877,
+    "final_score": 0.3896748766127964,
+    "label": "FAKE"
+  },
+  {
+    "timestamp": "2026-04-11T11:43:32.832253",
+    "video_path": "webcam",
+    "rppg_score": 0.2,
+    "illumination_score": 0.9215761468202263,
+    "fft_score": 0.1476871371269226,
+    "final_score": 0.4007789851841447,
+    "label": "FAKE"
+  }
+]
