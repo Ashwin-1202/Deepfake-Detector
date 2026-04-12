@@ -1,0 +1,78 @@
+# Dataset folders (large files - don't upload to GitHub)
+Celeb-DF/
+Celeb-DF.zip
+test_videos/
+dataset/
+real_videos/
+fake_videos/
+
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Dataset archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+deepfake_env/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model files (optional - keep if small)
+# deepfake_model_persistent.pkl  # Uncomment if you want to exclude model
+
+# Log files
+*.log
+detection_results_*.csv
+detection_log.json
+detection_logs.json
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Output files
+*.csv
+*.png
+*.jpg
+*.jpeg
+screenshot_*.png
+analysis_*.png
+
+# Old/excluded files
+*.bat
+calibrate.py
+debug_*.py
+test_*.py
+*_old.py
+*_backup.py
+
+# OS specific
+Thumbs.db
+desktop.ini
