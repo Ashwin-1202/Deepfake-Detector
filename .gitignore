@@ -72,7 +72,22 @@ debug_*.py
 test_*.py
 *_old.py
 *_backup.py
-
+# Old files to exclude
+analyze_video.bat
+calibrate.py
+detection_log.json
+fft_module.py
+illumination_module.py
+main.py
+model.py
+rppg_module.py
+utils.py
+video_detector.py
+web_ui.py
+webcam_detector.py
+*.png
+*.json
+detection_results_*.csv
 # OS specific
 Thumbs.db
 desktop.ini
