@@ -1,7 +1,5 @@
-"""
-Deepfake Detection Web App - Complete Fixed Version
-Run with: streamlit run app.py
-"""
+
+# Run with: streamlit run app.py
 
 import streamlit as st
 import cv2
@@ -612,14 +610,14 @@ def create_signal_plot(roi_signals):
 def main():
     st.markdown("""
     <div class="main-header">
-        <h1>🛡️ Deepfake Detection System</h1>
-        <p>Live rPPG Tracking | Multi-ROI Analysis | Train Your Own Model</p>
+        <h1>Deepfake Detection System</h1>
+        <p>Live rPPG Tracking | Multi-ROI Analysis | Train Your Model</p>
     </div>
     """, unsafe_allow_html=True)
     
     # Sidebar
     with st.sidebar:
-        st.markdown("## 📊 Navigation")
+        st.markdown("##  Navigation")
         
         page = st.radio(
             "Select Mode",

@@ -1,6 +1,6 @@
 # Dataset folders (large files - don't upload to GitHub)
 Celeb-DF/
-Celeb-DF.zip
+# Celeb-DF.zip
 test_videos/
 dataset/
 real_videos/
